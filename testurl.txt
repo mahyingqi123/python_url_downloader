@@ -1,0 +1,3 @@
+ftp://test.rebex.net/readme.txt
+http://speedtest.tele2.net/1MB.zip
+sftp://demo:password@test.rebex.net/readme.txt
